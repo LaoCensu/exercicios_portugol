@@ -9,7 +9,7 @@ programa {
     se(valor1+valor2>20){
       escreva("A soma dos dois valores mais oito é igual a: ",(valor1+valor2)+8)
     }senao{
-      escreva("A soma dos dois valores menos oito é igual a: ",(valor1+valor2)-5)
+      escreva("A soma dos dois valores menos cinco é igual a: ",(valor1+valor2)-5)
     }
   }
 }
